@@ -86,6 +86,4 @@ The dataset also includes `Operator` and `Garage` tables, which I did not use in
 
 TfL Bus Safety data, published by Transport for London.
 
-## Contact
 
-[Add your LinkedIn / email here]
