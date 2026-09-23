@@ -1,0 +1,15 @@
+   # Data files
+   *.csv
+   *.xlsx
+   
+   # System files
+   .DS_Store
+   Thumbs.db
+   
+   # Environment/config
+   .env
+   __pycache__/
+   *.pyc
+   
+   # Power BI temp files
+   *.pbix.bak
