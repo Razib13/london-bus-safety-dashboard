@@ -2,7 +2,7 @@
 
 A Power BI dashboard about bus safety incidents in London (2015–2018), built from raw data using SQL and DAX.
 
-screenshots/Overview.png
+![Overview](https://raw.githubusercontent.com/Razib13/london-bus-safety-dashboard/main/screenshots/Overview.png)
 
 ## About this project
 
